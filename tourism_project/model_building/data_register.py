@@ -3,7 +3,7 @@ import pandas as pd
 RAW_PATH = "tourism_project/data/tourism.csv"  # complete the code: path to the raw tourism.csv file inside the data folder
 
 # Load the raw dataset
-df = pd.read_csv(RAW_PATH)
+df = pd.read_csv(tourism_project/data/tourism.csv)
 
 # Validate that the expected columns are present before registering it
 expected_columns = [
